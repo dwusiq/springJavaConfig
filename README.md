@@ -1,1 +1,1 @@
-# spring 的java配置文件示例项目
+# 通过java实现spring配置
