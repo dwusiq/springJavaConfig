@@ -27,7 +27,7 @@
         </Async>
     </Appenders>
     <Loggers>
-        <Logger name="com.wusiq.weixin" level="debug" additivity="false">
+        <Logger name="com.wusiq" level="debug" additivity="false">
             <!--将debug级别的日志交给async和console打印-->
             <AppenderRef ref="async" />
             <AppenderRef ref="console" />
