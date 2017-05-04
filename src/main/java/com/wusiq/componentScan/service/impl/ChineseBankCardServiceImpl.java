@@ -1,6 +1,6 @@
-package com.wusiq.service.impl;
+package com.wusiq.componentScan.service.impl;
 
-import com.wusiq.service.BankCardService;
+import com.wusiq.componentScan.service.BankCardService;
 import org.springframework.stereotype.Component;
 
 /**

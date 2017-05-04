@@ -1,4 +1,4 @@
-package com.wusiq.service;
+package com.wusiq.componentScan.service;
 
 /**
  * 银行卡的处理接口

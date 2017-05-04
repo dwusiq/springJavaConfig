@@ -1,4 +1,4 @@
-package com.wusiq.config;
+package com.wusiq.componentScan.config;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
